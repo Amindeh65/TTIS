@@ -36,11 +36,7 @@ Pain was induced using a TSA-II thermal stimulator and rated using a generalized
 ## Study Design
 
 <p align="center">
-  <img src="study.jpg" width="600">
+  <img src="Study.jpg" width="600">
 </p>
 
-## Code and Data
-
-- `/Codes`: MATLAB scripts for analysis  
-- `/Data`: Experimental data  
 
