@@ -8,7 +8,7 @@ We examined whether tTIS applied over the left primary motor cortex (M1) can mod
 
 ## Participants
 
-A total of 42 healthy participants were recruited, with a final sample size of 32 after exclusions. All participants were screened for neurological, psychiatric, and pain-related conditions. :contentReference[oaicite:1]{index=1}
+A total of 42 healthy participants were recruited, with a final sample size of 32 after exclusions. All participants were screened for neurological, psychiatric, and pain-related conditions.
 
 ## Experimental Design
 
@@ -33,16 +33,14 @@ A total of 42 healthy participants were recruited, with a final sample size of 3
 
 Pain was induced using a TSA-II thermal stimulator and rated using a generalized labeled magnitude scale (gLMS).
 
-## Study Design Figure
+## Study Design
 
-![Study Design](study.jpg)
+<p align="center">
+  <img src="study.jpg" width="600">
+</p>
 
 ## Code and Data
 
 - `/Codes`: MATLAB scripts for analysis  
 - `/Data`: Experimental data  
 
-## Author
-
-Amin Dehghani  
-Postdoctoral Researcher, Dartmouth College
